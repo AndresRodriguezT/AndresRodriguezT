@@ -9,5 +9,5 @@
 - **CSS** 🎨
 
 ## 📫 ¿Dónde encontrarme?
-- [LinkedIn]([https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/andr%C3%A9s-rodr%C3%ADguez-a01450314/)) 
+- [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-rodr%C3%ADguez-a01450314/) 
 - [Twitter](https://www.instagram.com/ndres_._) 
