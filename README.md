@@ -10,4 +10,4 @@
 
 ## 📫 ¿Dónde encontrarme?
 - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-rodr%C3%ADguez-a01450314/) 
-- [Twitter](https://www.instagram.com/ndres_._) 
+- [Instagram](https://www.instagram.com/ndres_._) 
