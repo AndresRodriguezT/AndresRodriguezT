@@ -25,7 +25,7 @@
 <table><tr><td valign="top" width="25%">
 
 ### Frontend  
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/AndresRodriguezT">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" /> 
 </div>
@@ -33,7 +33,7 @@
  </td><td valign="top" width="25%">
         
 ### Lenguajes
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/AndresRodriguezT">
 <div>
        <img src="https://skillicons.dev/icons?i=cs,js,java&perline=4" /> 
 </div>
@@ -42,7 +42,7 @@
 </td><td valign="top" width="25%">
   
 ### Otros
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/AndresRodriguezT">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,mysql,dotnet,docker,godot,vscode,visualstudio, &perline=4" /> 
 </div>
