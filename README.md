@@ -20,7 +20,7 @@
 ### Lenguajes
 <a href="https://github.com/AndresRodriguezT">
 <div>
-       <img src="https://skillicons.dev/icons?i=cs,js,java&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=cs,ts,java&perline=4" /> 
 </div>
 </a>
 
