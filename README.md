@@ -12,7 +12,7 @@
 ### Frontend  
 <a href="https://github.com/AndresRodriguezT">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
