@@ -29,7 +29,7 @@
 ### Otros
 <a href="https://github.com/AndresRodriguezT">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,mysql,dotnet,docker,godot,r,vscode,visualstudio, &perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,dotnet,docker,godot,r,vscode,visualstudio, &perline=4" /> 
 </div>
 </a>
 </td>
