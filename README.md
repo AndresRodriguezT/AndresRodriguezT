@@ -1,40 +1,44 @@
 # Buenas! 👋 Soy Andrés Rodríguez
 ## Sobre mi:
 
-
-- 🎓 Actualmente soy un estudiante de Desarrollo de Aplicaciones Web (DAW) en el IES Isidra de Guzmán.
-- 🎮 Apasionado de los videojuegos y los deportes de motor.
+- 🎓 Actualmente soy un estudiante de Desarrollo de Aplicaciones Web (DAW) en el IES Isidra de Guzmán
+- 🎮 Apasionado de los videojuegos y los deportes de motor
 
 ## Stack:
 
-<table><tr><td valign="top" width="25%">
+<table>
+  <tr>
+    <td valign="top" width="25%">
 
-### Frontend  
-<a href="https://github.com/AndresRodriguezT">
+### Lenguajes  
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,ts,tailwind" /> 
+  <img src="https://skillicons.dev/icons?i=cs,ts,py,java" />
 </div>
-</a>
- </td><td valign="top" width="25%">
-        
-### Lenguajes
-<a href="https://github.com/AndresRodriguezT">
-<div>
-       <img src="https://skillicons.dev/icons?i=cs,mysql,java&perline=4" /> 
+    </td>
+    <td valign="top" width="25%">
+    
+### Frontend  
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=tailwind,astro,react,nextjs" /> 
 </div>
-</a>
+    </td>
+    <td valign="top" width="25%">
 
-</td><td valign="top" width="25%">
-  
-### Otros
-<a href="https://github.com/AndresRodriguezT">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,dotnet,docker,godot,r,vscode,visualstudio, &perline=4" /> 
+### Backend  
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=dotnet,django,express" /> 
 </div>
-</a>
-</td>
-</tr></table>
+    </td>
+    <td valign="top" width="25%">
 
+### Otros  
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=git,cloudflare,docker,vercel" /> 
+</div>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,mysql" /> 
+    </td>
+  </tr>
+</table>
 
 ## Contacto:
 <div align="center">
