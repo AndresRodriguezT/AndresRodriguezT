@@ -26,7 +26,7 @@
 
 ### Backend  
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=dotnet,django,express" /> 
+  <img src="https://skillicons.dev/icons?i=dotnet,django,express,nestjs" /> 
 </div>
     </td>
     <td valign="top" width="25%">
