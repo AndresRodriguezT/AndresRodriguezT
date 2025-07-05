@@ -1,8 +1,8 @@
 # Buenas! 👋 Soy Andrés Rodríguez
 ## Sobre mi:
 
-- 🎓 Actualmente soy un estudiante de Desarrollo de Aplicaciones Web (DAW) en el IES Isidra de Guzmán
-- 🛠️ Fullstack dev en prácticas para Futura Tickets
+- 🎓 Técnico superior en Desarrollo de Aplicaciones Web (DAW)
+- 🛠️ Fullstack dev para Futura Tickets
 - 🎮 Apasionado de los videojuegos y los deportes de motor
 
 ## Stack:
